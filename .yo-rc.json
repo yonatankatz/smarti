@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Smarti",
+    "packageName": "com.jonateam.smarti",
+    "packageFolder": "com/jonateam/smarti",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ar-ly",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "MmE3YmI1MTdjNmM3OWNmZGU4ZmZlMzM1OWJlNTdlMzA5ZmVkMTQ4ZjUzYjk5MmVlMDEzOGU0NjY2NDI3MGE4M2IxY2E0ZGFkM2VjODA0ZmQyMGExNDlhMzU4M2UwNjI1YzE2OTg0NDU0YmUxNDVjYjMxMGVlNjE5OTRlNDE1NjM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "yonatankatz",
+  "repository-name": "smarti"
+}
